@@ -31,5 +31,9 @@ public class CustomerController {
         }
         return customerService.insertCustomer(customer);
     }
+
+    public void insert() {
+
+    }
 }
 
